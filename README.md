@@ -5,13 +5,13 @@ I’m software developer and I like to create technology to help small and large
 - 🔭 I'm currently working como freelance
 - 🌱 I’m currently learning to be a good professional 
 
-my interests 
-  .Data science 
-  .Artificial intelligence 
-  .Pentesting 
-  .sports 
-  .To learn other languages
+My Interests 
+  *Data science 
+  *Artificial intelligence 
+  *Pentesting 
+  *sports 
+  *To learn other languages
 
 Contact 
-  .Linkedin 
-  .Twitter
+  *Linkedin 
+  *Twitter
