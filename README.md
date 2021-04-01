@@ -1,11 +1,17 @@
 Hi There
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m software developer and I like to create technology to help small and large companies, I love learning and being a curious person.
+
+- 🔭 I'm currently working como freelance
+- 🌱 I’m currently learning to be a good professional 
+
+my interests 
+  .Data science 
+  .Artificial intelligence 
+  .Pentesting 
+  .sports 
+  .To learn other languages
+
+Contact 
+  .Linkedin 
+  .Twitter
